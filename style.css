@@ -1,0 +1,16 @@
+body{
+    font-family: arial;
+}
+
+label {
+    font-weight: bold;
+}
+
+.slate {
+    width: 60px;
+}
+
+#moon {
+    height: 480px;
+    width: 50px;
+}
